@@ -1,3 +1,4 @@
 bases:
   - ./common/
   - ./team1/
+  - ./service-project-02-dbd0/
